@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en" ng-app="fruitsApp">
+    <head>
+        <title>Angular Sample App</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+        <script src="app.js"></script>
+    </head>
+
+    <body>
+        <div ng-controller="fruitsController">  
+            <table>
+                <tr ng-repeat="fruit in fruits">
+                    <td>{{fruit.id}}</td>
+                    <td>{{fruit.name}}</td>
+                    </tr>
+            </ul>
+        </div>
+    </body>
+</html>

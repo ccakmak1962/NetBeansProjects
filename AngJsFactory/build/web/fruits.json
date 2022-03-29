@@ -1,0 +1,28 @@
+{
+    "fruits": [
+        {
+            "id": "1",
+            "name": "Apple"
+        },
+        {
+            "id": "2",
+            "name": "Orange"
+        },
+        {
+            "id": "3",
+            "name": "Şeftali"
+        },
+        {
+            "id": "4",
+            "name": "Armut"
+        },
+        {
+            "id": "5",
+            "name": "Muz"
+        },
+        {
+            "id": "6",
+            "name": "Üzüm"
+        }
+    ]
+}
